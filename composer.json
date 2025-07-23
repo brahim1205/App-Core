@@ -11,5 +11,7 @@
             "email": "sadiocheri11@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
+
 }
