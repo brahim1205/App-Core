@@ -1,8 +1,13 @@
 {
     "name": "khalilouh/appcore",
+    "description": "Appcore - Framework PHP léger et modulaire.",
     "autoload": {
         "psr-4": {
-            "khalilouh\\Appcore\\": "src/"
+            "khalil\\": "app/",
+            "khalil\\Core\\": "app/core/",
+            "khalil\\Core\\Middlewares\\": "app/core/middlewares/",
+            "khalil\\Core\\Abstract\\": "app/core/abstract/",
+            "khalil\\Translate\\Fr\\": "app/translate/fr/"
         }
     },
     "authors": [
@@ -13,5 +18,4 @@
     ],
     "require": {},
     "minimum-stability": "stable"
-
 }
