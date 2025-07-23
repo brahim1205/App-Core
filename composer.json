@@ -1,0 +1,15 @@
+{
+    "name": "khalilouh/appcore",
+    "autoload": {
+        "psr-4": {
+            "khalilouh\\Appcore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "brahim1205",
+            "email": "sadiocheri11@gmail.com"
+        }
+    ],
+    "require": {}
+}
